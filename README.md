@@ -6,6 +6,10 @@ FarmFresh is a complete 10-page marketplace-ready website for a family-owned org
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
